@@ -2,11 +2,5 @@
 A simple ransomware in python3.
 This repo is only for eductional purpose.
 
-
-clone this repo to your local system.
-
-go change your path 
-
-python3 ransomware.py
-
-all your files will encrypted.
+you can use this program to create ransomware detection system and prevent your company from a ransomware attack.
+this is the basic structure of ransomware.
